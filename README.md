@@ -1,5 +1,9 @@
-The Sakila example database
+The Sakila example database (JOOQ Version). 
 ===========================
+
+This Sakila example database is forked and thus branched from the original JOOQ version, which comes from the [JOOQ/Sakila(https://github.com/jOOQ/sakila) GitHub repository. 
+
+This fork on GitHub/dlcoyle-usgs is used to track my own changes. There is not intention to submit any pull requests to the main repository. 
 
 The Sakila database is a nicely normalised database modelling a DVD rental store (for those of you old enough to remember what that is). Its design includes a few nice features:
 
